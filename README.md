@@ -1,4 +1,4 @@
-Lam Research Challenge 2025 Hardware Hustle
+# Lam Research Challenge 2025 Hardware Hustle
 
 > Advanced dual-robot coordination system with PID line following, BLE-controlled mecanum platform, 5-DOF robotic arm with physics engine, and FSM-based arena control.
 
